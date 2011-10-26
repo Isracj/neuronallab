@@ -1,0 +1,17 @@
+Numero de casos: 4
+Caso_1:
+Entrada(0): 0.000000
+Entrada(1): 1.000000
+Salida (0): 1.000000
+Caso_2:
+Entrada(0): 1.000000
+Entrada(1): 0.000000
+Salida (0): 1.000000
+Caso_3:
+Entrada(0): 0.000000
+Entrada(1): 0.000000
+Salida (0): 0.000000
+Caso_4:
+Entrada(0): 1.000000
+Entrada(1): 1.000000
+Salida (0): 0.000000

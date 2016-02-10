@@ -1,0 +1,2 @@
+Es una aplicacion para simular redes neuronales con retropropagacion, todavia no entrena como debe pero lo hara. Grafica la curva del error, y trabaja todo desde archivos.
+El proyecto esta hecho en Code:Blocks.
